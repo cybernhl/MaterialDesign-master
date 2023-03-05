@@ -1,0 +1,3 @@
+[submodule "BaseRecyclerViewAdapterHelper"]
+	path = BaseRecyclerViewAdapterHelper
+	url = git@github.com:CymChad/BaseRecyclerViewAdapterHelper.git

@@ -1,2 +1,4 @@
-include ':app'
 rootProject.name='SlideViewDemo'
+include ':app'
+include ':BaseRecyclerViewAdapterHelper'
+project(":BaseRecyclerViewAdapterHelper").projectDir = file("./BaseRecyclerViewAdapterHelper/library")
